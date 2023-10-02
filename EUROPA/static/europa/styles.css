@@ -1,0 +1,11 @@
+header {
+    background-color: cornflowerblue;
+    text-align: start;
+    align-items: flex-end;
+    
+}
+button{
+    font-size: 20px;
+    align-self: self-end;
+    align-content: end
+}
